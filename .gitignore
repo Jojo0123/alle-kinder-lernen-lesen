@@ -1,0 +1,27 @@
+# Dependencies & Build
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs & Dev-Artefakte
+*.log
+AGY_OUT.md
+ARGON_LOG.txt
+AUFTRAG.md
+
+# Android / Capacitor (Build-Artefakte + generierte Web-Assets)
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/local.properties
+android/app/src/main/assets/public/
+*.jks
+*.keystore
+
+# OS
+.DS_Store.npm-cache/

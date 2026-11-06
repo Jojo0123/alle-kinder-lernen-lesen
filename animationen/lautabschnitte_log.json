@@ -1,0 +1,115 @@
+{
+  "ah": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "aː"
+    }
+  },
+  "eh": {
+    "versuche": 2,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "e"
+    }
+  },
+  "ih": {
+    "versuche": 2,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "ih"
+    }
+  },
+  "oh": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "o"
+    }
+  },
+  "uh": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "uː"
+    }
+  },
+  "au": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "au"
+    }
+  },
+  "ei": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "ei"
+    }
+  },
+  "e-schwa": {
+    "versuche": 2,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "ə"
+    }
+  },
+  "sch": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "sch"
+    }
+  },
+  "ch-soft": {
+    "versuche": "xsampa-C via Gemini",
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "[ç]"
+    }
+  },
+  "ch-hard": {
+    "versuche": 2,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "[x]"
+    }
+  },
+  "scht": {
+    "versuche": "espeak-ng [[St]] Interim (Kirshenbaum-ASCII!)",
+    "verdict": {
+      "kategorie": "INTERIM_OK",
+      "gehoert": "scht",
+      "notiz": "Gemini-Upgrade pending (Wort-Slice aus TTS-'Stuhl')"
+    }
+  },
+  "ng": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "[ŋ]"
+    }
+  },
+  "pf": {
+    "versuche": 1,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "pf"
+    }
+  },
+  "br": {
+    "versuche": 2,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "br"
+    }
+  },
+  "gl": {
+    "versuche": 2,
+    "verdict": {
+      "kategorie": "LAUT_OK",
+      "gehoert": "gl"
+    }
+  }
+}

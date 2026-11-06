@@ -1,0 +1,265 @@
+{
+  "width": 1280,
+  "height": 714,
+  "objects": [
+    {
+      "id": "taucher",
+      "name": "Der Taucher",
+      "box": [
+        961,
+        488,
+        1193,
+        667
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          970,
+          455,
+          1160,
+          670
+        ]
+      ],
+      "score": 0.972669243812561,
+      "mask": "masks/taucher.png",
+      "cutout": "cutouts/taucher.png",
+      "clip": "clips/taucher.mp4",
+      "sound": "sounds/taucher.mp3"
+    },
+    {
+      "id": "hai",
+      "name": "Der Hai",
+      "box": [
+        1155,
+        502,
+        1221,
+        529
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          1155,
+          490,
+          1210,
+          550
+        ]
+      ],
+      "score": 0.6762827634811401,
+      "mask": "masks/hai.png",
+      "cutout": "cutouts/hai.png",
+      "clip": "clips/hai.mp4",
+      "sound": "sounds/hai.mp3"
+    },
+    {
+      "id": "wal",
+      "name": "Der Wal",
+      "box": [
+        1055,
+        131,
+        1215,
+        234
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          1060,
+          130,
+          1225,
+          215
+        ]
+      ],
+      "score": 0.9135119915008545,
+      "mask": "masks/wal.png",
+      "cutout": "cutouts/wal.png",
+      "clip": "clips/wal.mp4",
+      "sound": "sounds/wal.mp3"
+    },
+    {
+      "id": "boot",
+      "name": "Das Boot",
+      "box": [
+        721,
+        114,
+        816,
+        230
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          715,
+          120,
+          820,
+          220
+        ]
+      ],
+      "score": 0.9730017185211182,
+      "mask": "masks/boot.png",
+      "cutout": "cutouts/boot.png",
+      "clip": "clips/boot.mp4",
+      "sound": "sounds/boot.mp3"
+    },
+    {
+      "id": "eimer",
+      "name": "Der Eimer",
+      "box": [
+        521,
+        531,
+        600,
+        608
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          521,
+          533,
+          599,
+          612
+        ]
+      ],
+      "score": 0.9958051443099976,
+      "mask": "masks/eimer.png",
+      "cutout": "cutouts/eimer.png",
+      "clip": "clips/eimer.mp4",
+      "sound": "sounds/eimer.mp3"
+    },
+    {
+      "id": "schaufel",
+      "name": "Die Schaufel",
+      "box": [
+        539,
+        589,
+        657,
+        654
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          542,
+          592,
+          660,
+          648
+        ]
+      ],
+      "score": 0.9875034093856812,
+      "mask": "masks/schaufel.png",
+      "cutout": "cutouts/schaufel.png",
+      "clip": "clips/schaufel.mp4",
+      "sound": "sounds/schaufel.mp3"
+    },
+    {
+      "id": "kinder",
+      "name": "Die Kinder",
+      "box": [
+        56,
+        384,
+        480,
+        586
+      ],
+      "tapBoxes": [
+        [
+          56,
+          384,
+          172,
+          580
+        ],
+        [
+          366,
+          403,
+          480,
+          586
+        ]
+      ],
+      "promptBoxes": [
+        [
+          58,
+          390,
+          180,
+          610
+        ],
+        [
+          367,
+          410,
+          458,
+          610
+        ]
+      ],
+      "score": 0.9892131686210632,
+      "mask": "masks/kinder.png",
+      "cutout": "cutouts/kinder.png",
+      "clip": "clips/kinder.mp4",
+      "sound": "sounds/kinder.mp3"
+    },
+    {
+      "id": "sandburg",
+      "name": "Die Sandburg",
+      "box": [
+        145,
+        321,
+        387,
+        628
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          160,
+          330,
+          365,
+          610
+        ]
+      ],
+      "score": 0.995417594909668,
+      "mask": "masks/sandburg.png",
+      "cutout": "cutouts/sandburg.png",
+      "clip": "clips/sandburg.mp4",
+      "sound": "sounds/sandburg.mp3"
+    },
+    {
+      "id": "sonnenschirm",
+      "name": "Der Sonnenschirm",
+      "box": [
+        207,
+        158,
+        425,
+        308
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          210,
+          130,
+          490,
+          330
+        ]
+      ],
+      "score": 0.9865872263908386,
+      "mask": "masks/sonnenschirm.png",
+      "cutout": "cutouts/sonnenschirm.png",
+      "clip": "clips/sonnenschirm.mp4",
+      "sound": "sounds/sonnenschirm.mp3"
+    },
+    {
+      "id": "surfer",
+      "name": "Der Surfer",
+      "box": [
+        858,
+        244,
+        1012,
+        403
+      ],
+      "tapBoxes": null,
+      "promptBoxes": [
+        [
+          860,
+          245,
+          1015,
+          390
+        ]
+      ],
+      "score": 0.962693452835083,
+      "mask": "masks/surfer.png",
+      "cutout": "cutouts/surfer.png",
+      "clip": "clips/surfer.mp4",
+      "sound": "sounds/surfer.mp3"
+    }
+  ]
+}

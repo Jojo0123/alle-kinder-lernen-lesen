@@ -1,0 +1,153 @@
+{
+  "width": 1280,
+  "height": 714,
+  "animals": [
+    {
+      "id": "affe",
+      "name": "Affe",
+      "box": [
+        199,
+        117,
+        450,
+        345
+      ],
+      "promptBox": [
+        226,
+        110,
+        448,
+        342
+      ],
+      "score": 0.9791523218154907,
+      "mask": "masks/affe.png",
+      "cutout": "cutouts/affe.png",
+      "clip": "clips/affe.mp4",
+      "sound": "sounds/affe.mp3"
+    },
+    {
+      "id": "vogel",
+      "name": "Vogel",
+      "box": [
+        520,
+        182,
+        663,
+        300
+      ],
+      "promptBox": [
+        534,
+        187,
+        661,
+        302
+      ],
+      "score": 0.9883347749710083,
+      "mask": "masks/vogel.png",
+      "cutout": "cutouts/vogel.png",
+      "clip": "clips/vogel.mp4",
+      "sound": "sounds/vogel.mp3"
+    },
+    {
+      "id": "eule",
+      "name": "Eule",
+      "box": [
+        738,
+        38,
+        851,
+        212
+      ],
+      "promptBox": [
+        736,
+        41,
+        859,
+        186
+      ],
+      "score": 0.9908033609390259,
+      "mask": "masks/eule.png",
+      "cutout": "cutouts/eule.png",
+      "clip": "clips/eule.mp4",
+      "sound": "sounds/eule.mp3"
+    },
+    {
+      "id": "schlange",
+      "name": "Schlange",
+      "box": [
+        966,
+        132,
+        1209,
+        288
+      ],
+      "promptBox": [
+        956,
+        166,
+        1191,
+        271
+      ],
+      "score": 0.9609332084655762,
+      "mask": "masks/schlange.png",
+      "cutout": "cutouts/schlange.png",
+      "clip": "clips/schlange.mp4",
+      "sound": "sounds/schlange.mp3"
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "box": [
+        276,
+        339,
+        505,
+        520
+      ],
+      "promptBox": [
+        283,
+        342,
+        496,
+        482
+      ],
+      "score": 0.9953815937042236,
+      "mask": "masks/tiger.png",
+      "cutout": "cutouts/tiger.png",
+      "clip": "clips/tiger.mp4",
+      "sound": "sounds/tiger.mp3"
+    },
+    {
+      "id": "elefant",
+      "name": "Elefant",
+      "box": [
+        545,
+        362,
+        805,
+        610
+      ],
+      "promptBox": [
+        558,
+        360,
+        813,
+        596
+      ],
+      "score": 1.0032055377960205,
+      "mask": "masks/elefant.png",
+      "cutout": "cutouts/elefant.png",
+      "clip": "clips/elefant.mp4",
+      "sound": "sounds/elefant.mp3"
+    },
+    {
+      "id": "baer",
+      "name": "Bär",
+      "box": [
+        968,
+        304,
+        1146,
+        626
+      ],
+      "promptBox": [
+        970,
+        311,
+        1143,
+        653
+      ],
+      "score": 1.002193808555603,
+      "mask": "masks/baer.png",
+      "cutout": "cutouts/baer.png",
+      "clip": "clips/baer.mp4",
+      "sound": "sounds/baer.mp3"
+    }
+  ]
+}

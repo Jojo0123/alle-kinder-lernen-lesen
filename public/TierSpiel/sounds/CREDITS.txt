@@ -1,0 +1,12 @@
+Tiergeraeusche — Quellen & Lizenzen
+
+affe.mp3: "Vervet Monkey (Chlorocebus pygerythrus) (W CERCOPITHECUS AETHIOPS R2 C2).ogg" — Wikimedia Commons, CC BY 4.0
+vogel.mp3: "Erithacus rubecula - European Robin XC509375.mp3" — xeno-canto / Wikimedia Commons, CC BY-SA 4.0
+eule.mp3: "Strix aluco - Tawny Owl XC494801.mp3" — xeno-canto / Wikimedia Commons, CC BY-SA 4.0
+tiger.mp3: "439280 schots angry-tiger.wav" — schots / Wikimedia Commons, CC0
+baer.mp3: "Yellowstone sound library - Grizzly Bear vocalizations - 001.mp3" — Yellowstone Sound Library, Public domain
+elefant.mp3: "Elephant voice - trumpeting.ogg" — Wikimedia Commons, CC0
+schlange.mp3: synthetisch erzeugt (gefiltertes Rauschen, ffmpeg) — keine Lizenzen noetig
+
+Hinweis: CC BY / CC BY-SA erfordern Namensnennung der Quelle im Produkt.
+Details der Urheber: siehe Wikimedia-Dateiseiten der genannten Dateien.
