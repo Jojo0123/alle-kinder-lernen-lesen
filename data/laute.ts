@@ -157,7 +157,7 @@ export const resolveCanonicalWord = (word: string): string => {
 
 // Cache-Busting-Version fuer Audio-Dateien (umgeht Cloudflare max-age=14400, Browser-HTTP-Cache & alten SW-Cache).
 // Wird bei jedem Upload in vite.config.ts automatisch hochgezaehlt.
-export const AUDIO_VERSION = 'lesen-lernen-v62';
+export const AUDIO_VERSION = 'lesen-lernen-v130';
 
 export const withAudioVersion = (url: string): string => {
   if (!url) return url;

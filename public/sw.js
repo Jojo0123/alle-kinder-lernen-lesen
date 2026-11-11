@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lesen-lernen-v64';
+const CACHE_NAME = 'lesen-lernen-v130';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
